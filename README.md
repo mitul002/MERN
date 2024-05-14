@@ -31,15 +31,15 @@ Currently I'm doing BSc in CSE
 - Powepoint Slide designer in Mojaru.com
 
 ## Portfolio
--  https://sites.google.com/diu.edu.bd/mitul002
--  https://www.shutterstock.com/g/HasinAlmas
--  https://www.behance.net/hasinalmas
--  https://www.freepik.com/author/hasinalmas
+- Portfolio Site:  https://sites.google.com/diu.edu.bd/mitul002
+-  Shutterstock : https://www.shutterstock.com/g/HasinAlmas
+-  Behance : https://www.behance.net/hasinalmas
+-  Freepik : https://www.freepik.com/author/hasinalmas
   
 
 ## Website:
-- https://sites.google.com/diu.edu.bd/mitul002
-- https://65e34f72772bb7d433e95ed9--dulcet-torrone-0f178a.netlify.app/
+- Google Site: https://sites.google.com/diu.edu.bd/mitul002
+- Pixel Studio: https://65e34f72772bb7d433e95ed9--dulcet-torrone-0f178a.netlify.app/
 
 ## Contact:
 ✉️ hasinalmasmitul@gmail.com
