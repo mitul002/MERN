@@ -1,4 +1,4 @@
-# Hello,🙋🏻‍♀️ This is Mitul.
+# Hello,🙋🏻‍♀️ This is Hasin Almas Mitul.
 I am a professional graphic designer, web designer, youtuber and a student.
 
 ## Soft Skills:
