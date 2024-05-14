@@ -6,7 +6,7 @@ This is Normal text
 
 **This is bold text**
 
--This is italic text-
+_This is italic text_
 
 '''html 
 <h1>Hello world</h1>
