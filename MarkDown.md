@@ -2,6 +2,11 @@
 ##heading 2
 ###heading 3
 
+This is Normal text
+
+**This is bold text**
+
+-This is italic text-
 
 '''html 
 <h1>Hello world</h1>
