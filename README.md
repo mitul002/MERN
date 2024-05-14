@@ -29,5 +29,9 @@ Currently I'm doing BSc in CSE
 ## Working Experience
 - Contributor in Shutterstock, Adobe Stock, Istock, Freepik, Flaticon, The Noun Project as a branding designer
 - Powepoint Slide designer in Mojaru.com
-- 
+
+
+## Contact
+✉️ hasinalmasmitul@gmail.com
+
    
